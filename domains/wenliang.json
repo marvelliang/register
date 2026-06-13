@@ -2,7 +2,9 @@
   "owner": {
     "username": "marvelliang"
   },
-  "records": {
-     "CNAME": "https://marvelliang.github.io"
+  "records":{
+    "A": [
+      "35.212.204.226"
+    ]
   }
 }
